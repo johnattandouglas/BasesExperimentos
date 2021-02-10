@@ -1,3 +1,3 @@
-Nessa pasta estão bases de dados geradas a partir de uma base de registros do Capital BikeShare, o maior SBC dos Estados Unidos (capitalbikeshare.com), localizado em Washington D.C.
+Nesta pasta estão bases de dados geradas a partir de uma base de registros do Capital BikeShare, o maior SBC dos Estados Unidos (capitalbikeshare.com), localizado em Washington D.C.
 Esse sistema está em funcionamento desde 2010 e atualmente possui cerca de 500 estações e 4300 bicicletas.
-A base de dados original do ano de 2017 do Capital BikeShare possui cerca de 3,75 milhões de registros e, com procedimentos de pré-processamento obtiveram-se as diversas bases presentes nesta página.
+A base de dados original do ano de 2017 do Capital BikeShare possui cerca de 3,75 milhões de registros e, com procedimentos de pré-processamento obtiveram-se as diversas bases disponíveis aqui.
